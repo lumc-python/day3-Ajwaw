@@ -9,8 +9,8 @@ Write a script to print out the most common 7-mer and its GC percentage from all
 ## Hints
 
 - FASTA files have two types of lines: header lines starting with a ">" character and sequence lines. We are only concerned with the sequence line.
-- Read the [string functions documentation](https://docs.python.org/2/library/string.html).
-- Read the [documentation for built in functions](https://docs.python.org/2/library/functions.html).
+- Read the [string functions documentation](https://docs.python.org/3.7/library/string.html).
+- Read the [documentation for built in functions](https://docs.python.org/3.7/library/functions.html).
 
 ## Challenges
 
